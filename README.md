@@ -22,7 +22,7 @@ At its core, a CDN is a network of servers linked together with the goal of deli
 
 These <b>Internet exchange points (IXPs)</b> are the primary locations where different Internet providers connect in order to provide each other access to traffic originating on their different networks. By having a connection to these high speed and highly interconnected locations, a CDN provider is able to reduce costs and transit times in high speed data delivery.
 
-![internet exhange point](/systemdesign/images/ixp.png)
+![internet exhange point](/images/ixp.png)
 
 Beyond placement of servers in IXPs, a CDN makes a number of optimizations on standard client/server data transfers
 
